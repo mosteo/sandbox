@@ -1,5 +1,7 @@
 #/usr/bin/bash
 
+date -u 
+
 python3 -c 'print("Test OK")'
 
 docker version
